@@ -13,7 +13,7 @@ This bot automates the process of creating accounts and using referral codes for
 
 - Node.js 18 v18.20.5 LTS or latest.
 - npm (Node Package Manager)
-- Use 2Captcha Services [2Captcha](https://2captcha.com/), free version you can using gemini apikey.
+- Use 2Captcha Services [2Captcha](https://2captcha.com/?from=24541144), free version you can using gemini apikey.
 
 ## Installation
 
